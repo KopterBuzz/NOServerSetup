@@ -1,0 +1,18 @@
+{
+    "MissionDirectory":"SERVER_MISSIONDIR",
+    "ModdedServer":SERVER_MODDED,
+    "ServerName":"SERVER_NAME",
+    "Port":
+    {
+        "IsOverride":SERVER_PORT_ISOVERRIDE,"Value":SERVER_PORT_VALUE
+    },
+    "QueryPort":
+    {
+        "IsOverride":SERVER_QUERYPORT_ISOVERRIDE,"Value":SERVER_QUERYPORT_VALUE
+    },
+    "Password":"SERVER_PASSWORD",
+    "MaxPlayers":SERVER_MAXPLAYERS,
+    "NoPlayerStopTime":SERVER_NOPLAYERSTOPTIME,
+    "RotationType":SERVER_ROTATIONTYPE,
+    SERVER_MISSIONROTATION
+}

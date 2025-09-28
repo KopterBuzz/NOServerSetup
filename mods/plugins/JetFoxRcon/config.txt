@@ -1,0 +1,5 @@
+{
+  "MOTD": ["MOTD ONE", "MODTD TWO"],
+  "RconPort": 551337,
+  "RconPassword": "DA_RCON_PW"
+}
