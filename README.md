@@ -21,6 +21,7 @@ it will download and install all dependencies required to run a NO server with B
 then launch the server with:
 
 cd ./server
+
 ./run_bepinex.sh
 
 
