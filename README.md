@@ -4,7 +4,7 @@ How to use:
 
 clone this repo to a linux machine
 
-modify the "SERVER_" variables values to your liking
+modify the "SERVER_" variables values to your liking inside DedicatedServerConfig.py
 
 add the mods you want to the mods/plugins folder
 
