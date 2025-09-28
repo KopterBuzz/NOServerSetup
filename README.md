@@ -8,6 +8,8 @@ modify the "SERVER_" variables values to your liking
 
 add the mods you want to the mods/plugins folder
 
+by default I have NOBlackBox, JetFox RCON + AntiCheat, senti's SlingLoad Hook Exploit Fix.
+
 also add default config for them if needed, to the mods/config folder
 
 add the missions you want to the missions folder
