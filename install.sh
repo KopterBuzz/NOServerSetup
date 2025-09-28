@@ -1,6 +1,9 @@
 PWD=$(pwd)
 SERVERDIR="${PWD}/server"
 
+mkdir bepinex
+mkdir server
+
 sudo add-apt-repository -y multiverse 
 sudo apt update
 echo steam steam/question select "I AGREE" | sudo debconf-set-selections
