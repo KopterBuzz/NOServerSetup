@@ -10,7 +10,7 @@ add the mods you want to the mods/plugins folder
 
 if the mod uses its own config rather than bepinex configuration then take care of it separately as needed
 
-by default I have NOBlackBox, JetFox RCON + AntiCheat, senti's SlingLoad Hook Exploit Fix.
+by default I have NOBlackBox & JetFox RCON + AntiCheat.
 
 also add default config for them if needed, to the mods/config folder
 
